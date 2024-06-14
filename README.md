@@ -1,3 +1,3 @@
 # head
 ## head1
-[day_ot](/day_ot)
+[day_ot](C:\Users\campus4D038\Documents\GitHub\dgb_github)
